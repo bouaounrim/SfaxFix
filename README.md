@@ -20,7 +20,7 @@ Plateforme web de services locaux à Sfax (Tunisie) permettant aux citoyens de t
 
 ### 🏠 Accueil
 
-![Accueil](Screenshots/home.png)
+![Accueil](home.png)
 
 ### 👨‍🔧 Prestataires
 
