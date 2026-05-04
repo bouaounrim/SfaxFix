@@ -24,27 +24,27 @@ Plateforme web de services locaux à Sfax (Tunisie) permettant aux citoyens de t
 
 ### 👨‍🔧 Prestataires
 
-![Prestataires](Screenshots/providers.png)
+![Prestataires](providers.png)
 
 ### 📅 Réservation
 
-![Réservation](Screenshots/booking.png)
+![Réservation](booking.png)
 
 ### 📋 Mes réservations
 
-![Réservations](Screenshots/bookings.png)
+![Réservations](bookings.png)
 
 ### 🛠️ Dashboard Prestataire
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### 🛡️ Admin
 
-![Admin](Screenshots/admin.png)
+![Admin](admin.png)
 
 ### 🔐 Inscription
 
-![Register](Screenshots/register.png)
+![Register](register.png)
 
 ---
 
