@@ -1,6 +1,6 @@
 # ⚡ SfaxFix
 
-Plateforme web de services locaux à Sfax (Tunisie) permettant aux citoyens de trouver facilement des prestataires et de réserver des services en ligne.
+Plateforme web de services locaux à Sfax, Tunisie permettant aux citoyens de trouver facilement des prestataires et de réserver des services en ligne.
 
 ---
 
